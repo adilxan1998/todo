@@ -1,0 +1,49 @@
+.container {
+  width: 1200px;
+  margin: auto;
+  padding: 0 20px;
+}
+
+.todo_form {
+  margin-top: 100px;
+}
+
+.todo_input-name {
+  width: 400px;
+  height: 35px;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 20px;
+  display: block;
+  border: solid 2px blue;
+}
+
+.todo_input-writer {
+  width: 400px;
+  height: 35px;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 20px;
+  display: block;
+  border: solid 2px blue;
+}
+
+.todo_input-price {
+  width: 400px;
+  height: 35px;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 20px;
+  display: block;
+  border: solid 2px blue;
+}
+
+.form_btn {
+  width: 300px;
+  padding: 15px 31px;
+  margin-left: 440px;
+  margin-top: 50px;
+  background-color: rgb(49, 58, 194);
+  border: none;
+  color: #fff;
+}
